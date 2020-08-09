@@ -390,7 +390,7 @@ main{
     .test0{
         display: grid;
         grid-template-columns: auto auto auto auto;
-        
+        grid-template-rows: 100px 100px 100px 100px;
         justify-content: center;
         align-items: center;
         margin: 2px;
@@ -616,7 +616,7 @@ main{
     .test0{
         display: grid;
         grid-template-columns: auto auto auto auto;
-        
+        grid-template-rows: 120px 120px 120px 120px;
         justify-content: center;
         align-items: center;
         margin: 2px;
